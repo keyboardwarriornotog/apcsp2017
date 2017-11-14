@@ -1,2 +1,8 @@
 h1{ font-size:40px;}
-.fonted{ font-size:18px}
+
+.fonted{ font-size:18px;
+    text-indent: 50px;
+}
+
+.hyperlink{ font-color:purple;}
+
